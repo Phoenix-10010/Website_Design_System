@@ -1,0 +1,119 @@
+html {
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.section {
+    border: grey solid 2px;
+    margin: 10px 10px;
+    text-align: left;
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: auto;
+    width: fit-content;
+    flex-wrap: wrap;
+
+}
+
+#red {
+    background-color: red;
+    padding: 20px;
+    margin: 10px;
+}
+
+#blue {
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+}
+
+#green {
+    background-color: green;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#yellow {
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#brown {
+    background-color: brown;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#purple {
+    background-color: purple;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#black {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#grey {
+    color: white;
+    background-color: grey;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#cyan {
+    background-color: cyan;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#orange {
+    background-color: orange;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#pink {
+    background-color: pink;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.arial {
+    font-family: Arial, sans-serif;
+}
+
+.georgia {
+    font-family:Georgia, serif
+}
+
+.lucida {
+    font-family:'Lucida Sans', sans-serif;
+}
+
+.verdana {
+    font-family: Verdana, sans-serif;
+}
+
+.footer {
+    display: block;
+    text-align: end;
+}
